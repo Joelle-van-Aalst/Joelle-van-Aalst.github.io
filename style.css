@@ -1,6 +1,4 @@
 /* The Overlay (background) */
-<head> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-</head>
 .overlay {
     /* Height & width depends on how you want to reveal the overlay (see JS below) */    
     height: 100%;
