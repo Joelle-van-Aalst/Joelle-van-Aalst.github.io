@@ -1,6 +1,5 @@
 /* Open when someone clicks on the span element */
 
-<!DOCTYPE javascript>
 
 function openNav() {
     document.getElementById("myNav").style.width = "100%";
